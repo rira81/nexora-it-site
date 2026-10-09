@@ -1,0 +1,1 @@
+import React from 'react'; export default function PageHero({eyebrow,title,desc}){return <section className="pageHero"><div className="wrap"><small>{eyebrow}</small><h1>{title}</h1><p>{desc}</p></div></section>}
